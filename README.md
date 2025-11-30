@@ -26,6 +26,6 @@ Skills: OOP, data structures, algorithms, UI development, API design, and real-w
 
 🌐 Contact Me
 
-🔗 [LinkedIn](www.linkedin.com/in/diego-estrada-27ab591a0)
+🔗 [www.linkedin.com/in/diego-estrada-27ab591a0](https://www.linkedin.com/in/diego-estrada-27ab591a0)
 
 Feel free to explore my repositories and see what I’ve been working on. Thanks for stopping by — happy coding! 🚀
